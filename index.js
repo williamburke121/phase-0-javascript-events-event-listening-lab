@@ -5,6 +5,8 @@ function addingEventListener(click, clickAlert) {
     }
 
 
-input.addEventListener('click', clickAlert)
+ input.addEventListener('click', clickAlert)
+
 }
-function clickAlert;
+
+console.log(addingEventListener())
